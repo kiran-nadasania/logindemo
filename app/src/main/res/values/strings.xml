@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+
+    <!--hints-->
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+
+    <!--error messages-->
+    <string name="api_failed">Something went wrong!</string>
+    <string name="no_internet">You are not connected to internet</string>
+    <string name="error_insert_data">Error while insert data</string>
+
+    <!--common messages-->
+    <string name="login_success">Login successful</string>
+</resources>
